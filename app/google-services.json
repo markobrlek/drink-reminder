@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184051364465",
+    "firebase_url": "https://drink-reminder-fa111.firebaseio.com",
+    "project_id": "drink-reminder-fa111",
+    "storage_bucket": "drink-reminder-fa111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184051364465:android:c8ff49551e559342",
+        "android_client_info": {
+          "package_name": "com.gg.brlek_pc.prva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184051364465-khhadq1ohvfshrr13m2agpjrtmjaler7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gg.brlek_pc.prva",
+            "certificate_hash": "ae3fdfcc4f755df46af9545b8aa0a3a52f6a6fdb"
+          }
+        },
+        {
+          "client_id": "184051364465-mdrt8osvpn80re306uv6fni7vq282b48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxA864iocR-OrSUaFxGhIb-29CCJlfZLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184051364465-mdrt8osvpn80re306uv6fni7vq282b48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.gg.brlek_pc.prva">
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="false"
+        android:name="com.gg.brlek_pc.prva.MyApplication"
+        android:icon="@mipmap/glassicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/glassicon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.gg.brlek_pc.prva.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.gg.brlek_pc.prva.Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.gg.brlek_pc.prva.Main3Activity"
+            android:screenOrientation="portrait" />
+        <meta-data
+            tools:replace="android:value"
+            android:name="android.support.VERSION"
+            android:value="26.1.0"/>
+        <activity android:name="com.gg.brlek_pc.prva.Repeating_activity"/>
+        <receiver android:name="com.gg.brlek_pc.prva.Notification_reciever"/>
+        <receiver android:name="com.gg.brlek_pc.prva.Notification_reciever2"/>
+        <receiver android:name="com.gg.brlek_pc.prva.Notification_reciever3"/>
+        <receiver android:name="com.gg.brlek_pc.prva.ResetProgress"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Drink Reminder</string>
+    <string name="textview">TextView</string>
+    <string name="a">Hello</string>
+    <string name="b">Benefits</string>
+    <string name="action_settings">Settings</string>
+    <string name="b2">
+        <font size="30">Benefits</font>
+    </string>
+    <string name="stg">
+        <font size="30">Settings</font>
+    </string>
+    <string name="dailygoal">
+        <font size="15">Set your daily water intake goal</font>
+    </string>
+    <string name="receivenotifications">
+        <font size="15">Receive notifications from:</font>
+    </string>
+    <string name="stopnotifications">
+        <font size="15">Make notifications stop at:</font>
+    </string>
+    <string name="notiftext">You haven\'t hit your daily goal yet!</string>
+    <string name="notiftitle">Drink some water!</string>
+    <string name="notifend">This is the last reminder for the day.</string>
+    <string name="notifendtitle">Stay hydrated!</string>
+    <string name="notifstart">Your reminders for the day have started!</string>
+    <string name="notifstarttitle">Let\'s drink some water today!</string>
+    <string name="resetnotif">Reset progress at:</string>
+    <string name="resetnotiftext">Make sure to track your water intake tomorrow!</string>
+    <string name="resetnotiftitle">Your today\'s progress has been reset.</string>
+    <string name="congrats">Congratulations! You\'ve achieved your daily water intake goal.</string>
+    <string name="allbenefits">
+        <font size="20">\n\n\n\n<b>Why you should drink water</b></font>\n\n\n<b><font size="20">Increases brain power and provides energy</font></b>\n\nOne of water\'s many benefits is an increase in brain power. Since your brain is made of 73% water, drinking helps you think, focus, concentrate and stay alert. As a result, your energy levels also improve.\n\n\n<b><font size="20">Promotes healthy weight management and weight loss</font></b>\n\nWater helps in removing fat, makes you feel more full and improves your metabolism. You\'re less likely to gain weight if you drink a few glasses of water before a meal.\n\n\n<b><font size="20">Flush out toxins</font></b>\n\nWater consumption helps your body flush out waste through sweat and urination. This also helps with kidney stones and protects you from urinary tract infections. Your body is able to naturally detoxify through the uso of its lungs, liver and kidneys. But sometimes we give it more than it can handle.\n\n\n<b><font size="20">Improves your complexion</font></b>\n\nIt\'s understandable that if your body is composed of 60% water, dehydration will harm your skin.
+        Your skin is an organ, and water is important for organ function. If your skin is not getting the sufficient amount of water, the lack of hydration will present itself by turning your skin dry, tight and flaky. Dry skin has less resilience and is more prone to wrinkling. Drinking water is great for your skin. It helps to moisturize it, keep it soft and removes wrinkles.\n\n\n<b><font size="20">Maintains regularity</font></b>\n\nBeing regular is the result of a healthy digestive system. And drinking water helps your body digest everything you eat. Water helps break down food (so that your body can absorb the nutrients) and prevents constipation.\n\n\n<b><font size="20">Boosts immune system</font></b>\n\nWater strengthens your immune system in two ways: it carries oxygen to your body\'s cells (which results in properly functioning systems) and it flushes harmful toxins from your body.
+        Water has also been shown to reduce the risk of bladder cancer by rapidly flushing toxins from your bladder.\n\n\n<b><font size="20">Prevents headaches</font></b>\n\nDehydration=headache. Water is important for brain functions. In addition to increasing brain power, drinking water also helps prevent and relieve headaches often caused by dehydration. Dehydration headache occurs when your body loses essential fluids to function properly. Dehydration can cause the brain to temporarily shrink from fluid loss. This mechanism causes the brain to pull away from the skull, causing pain and resulting in a dehydration headache.\n\n\n<b><font size="20">Prevents cramps and sprains</font></b>\n\nDehydration leads to cramping and dehydrated muscles are more prone to sprains. Water acts as a natural lubricant for your muscles and joints. Develop hydration and you\'ll be more flexible, less likely to experience sprained ankles and less likely to be sore after a workout.\n\n\n<b><font size="20">Prevents backaches</font></b>\n\nThe bones of your vertebrae are supported by discs. And the central nucleus of each disc is made of water. A lack of water can compromise these discs leading to back pain.\n\n\n<b><font size="20">Prevents bad breath</font></b>\n\nBad breath is often a clear sign of dehydration. In addition to the food you eat, dehydration can also cause bad breath. Drinking a sufficient amount of water washes away leftovers particles and oral bacteria that lead to bad breath.\n\n\n<b><font size="20">Puts you in a better mood</font></b>\n\nJust as a well-oiled engine runs at top performance, so your body will also work better when properly hydrated. And when your internal systems and organs are running better, you\'re more likely to feel better about yourself. In turn, you\'re more likely to be in a good mood!\n\n
+</string>
+
+</resources>
